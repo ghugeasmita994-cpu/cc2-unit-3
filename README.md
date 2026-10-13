@@ -32,10 +32,17 @@ To create a simple Gym Membership Management System using a Linked List to store
 
 4.Algorithm Explanation
 
+
 1)Start: Begin the program.
-2) Create a linked list: Create nodes to 3) store member ID, name, and membership months.
-4) Display the menu: Show the available operations.
-5)Accept choice: Take the user's choice.
-6) Perform operation: Execute the    selected operation, such as adding, searching, renewing, or deleting a member.
-7) Repeat: Display the menu again until      Exit is selected.
-8) Stop: End the program.
+
+2) Create a linked list: Create nodes to store member ID, name, and membership  months.
+
+3) Display the menu: Show the available operations.
+
+4)Accept choice: Take the user's choice.
+
+5) Perform operation: Execute the    selected operation, such as adding, searching, renewing, or deleting a member.
+
+6) Repeat: Display the menu again until      Exit is selected.
+
+7) Stop: End the program.
