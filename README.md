@@ -35,13 +35,23 @@ To create a simple Gym Membership Management System using a Linked List to store
 
 
 Start: Start the program.
+
 Create Linked List: Create a linked list to store gym member details.
+
 Display Menu: Show the available operations.
+
 Accept Choice: Enter the user's choice.
+
 Add Member: Enter and store member details.
+
 Display Members: Show all member records.
+
 Search Member: Find a member using their ID.
+
 Renew Membership: Add extra months to the membership.
+
 Delete Member: Remove a member's record.
+
 Repeat: Show the menu again for another operation.
+
 Stop: End the program when Exit is selected.
