@@ -1,0 +1,33 @@
+
+
+ tital-Airport Network Using Dijkstra’s Algorithm
+
+1.Problem statement
+Develop an airport network using a graph in which airports are represented as vertices and flight travel times are represented as edges with non-negative weights. Apply Dijkstra’s algorithm to find the minimum-travel-time paths from a selected airport to all other reachable airports.
+
+2. Objective
+
+1.To represent an airport network using a graph.
+2.To assign non-negative travel-time weights between airports.
+3.To implement Dijkstra’s algorithm.
+4.To find the shortest travel time from a source airport to other airports.
+
+3. Algorithm
+
+1.Start the program.
+2.Create a graph of airports with travel-time weights.
+3.Select Mumbai as the source airport.
+4.Initialize its distance to zero and all other distances to infinity.
+5.Select the airport with the minimum temporary distance.
+6.Update the distances of its connected airports if a shorter path is found.
+7.Repeat until the priority queue becomes empty.
+8.Display the minimum travel time to each airport.
+9.Stop.
+
+4.Result
+
+The airport network was successfully represented using a weighted graph. Dijkstra’s algorithm was implemented to calculate the minimum travel time from Mumbai to all reachable airports.
+
+5.Conclusion
+
+Dijkstra’s algorithm efficiently finds the shortest paths in an airport network when all travel-time weights are non-negative. It helps determine the minimum total travel time between airports.
